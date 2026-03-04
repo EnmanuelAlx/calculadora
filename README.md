@@ -17,7 +17,7 @@ Este proyecto es una calculadora simple que permite realizar operaciones básica
 - [ ]  **Multiplicación** - `multiplicar(a, b)` → devuelve a * b  
   ![Nicolas Cuellar](https://img.shields.io/badge/Nicolas%20Cuellar-95E1D3?style=flat-square)
 
-- [ ]  **División** - `dividir(a, b)` → devuelve a / b (con validación de división por cero)  
+- [x]  **División** - `dividir(a, b)` → devuelve a / b (con validación de división por cero)  
   ![Anny Sosa](https://img.shields.io/badge/Anny%20Sosa-F38181?style=flat-square)
 
 - [ ] **Potencia** - `potencia(base, exponente)` → devuelve base^exponente  
