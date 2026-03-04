@@ -32,8 +32,8 @@ Este proyecto es una calculadora simple que permite realizar operaciones básica
 - [ ] **Promedio** - `promedio(lista_numeros)` → devuelve el promedio de una lista  
   ![Maria Fernanda](https://img.shields.io/badge/Maria%20Fernanda-FFD93D?style=flat-square)
 
-- [ ] **Máximo** - `maximo(lista_numeros)` → devuelve el número más grande de una lista  
-  ![Nathalia Reyes](https://img.shields.io/badge/Nathalia%20Reyes-6BCB77?style=flat-square)
+- [x] **Máximo** - `maximo(lista_numeros)` → devuelve el número más grande de una lista  
+  ![Natalia Reyes](https://img.shields.io/badge/Nathalia%20Reyes-6BCB77?style=flat-square)
 
 - [ ] **Mínimo** - `minimo(lista_numeros)` → devuelve el número más pequeño de una lista  
   ![Samuel Bornacelly](https://img.shields.io/badge/Samuel%20Bornacelly-4D96FF?style=flat-square)
