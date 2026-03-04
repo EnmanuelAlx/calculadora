@@ -11,3 +11,9 @@ def numero_mayor(lista):
     if not lista:
         return None 
     return max(lista)
+
+def division(dividendo,divisor):
+    if divisor ==0:
+        return None
+    division=dividendo/divisor
+    return division
