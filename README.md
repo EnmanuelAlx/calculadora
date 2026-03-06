@@ -11,7 +11,7 @@ Este proyecto es una calculadora simple que permite realizar operaciones básica
 - [x] **Suma** - `sumar(a, b)` → devuelve a + b 
   ![Enmanuel Madrid](https://img.shields.io/badge/Enmanuel%20Madrid-FF6B6B?style=flat-square) 
 
-- [ ] **Resta** - `restar(a, b)` → devuelve a - b  
+- [x] **Resta** - `restar(a, b)` → devuelve a - b  
   ![Andres Jimenez](https://img.shields.io/badge/Andres%20Jimenez-4ECDC4?style=flat-square)
 
 - [x]  **Multiplicación** - `multiplicar(a, b)` → devuelve a * b  
