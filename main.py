@@ -17,3 +17,9 @@ def division(dividendo,divisor):
         return None
     division=dividendo/divisor
     return division
+
+def es_par(numero): 
+    if numero % 2 == 0:
+        return True
+    else:
+        return False
