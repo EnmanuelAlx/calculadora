@@ -17,3 +17,6 @@ def division(dividendo,divisor):
         return None
     division=dividendo/divisor
     return division
+
+def resta(a, b):
+    return a - b
