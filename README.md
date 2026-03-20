@@ -14,7 +14,7 @@ Este proyecto es una calculadora simple que permite realizar operaciones básica
 - [x] **Resta** - `restar(a, b)` → devuelve a - b  
   ![Andres Jimenez](https://img.shields.io/badge/Andres%20Jimenez-4ECDC4?style=flat-square)
 
-- [ ]  **Multiplicación** - `multiplicar(a, b)` → devuelve a * b  
+- [x]  **Multiplicación** - `multiplicar(a, b)` → devuelve a * b  
   ![Nicolas Cuellar](https://img.shields.io/badge/Nicolas%20Cuellar-95E1D3?style=flat-square)
 
 - [x]  **División** - `dividir(a, b)` → devuelve a / b (con validación de división por cero)  
