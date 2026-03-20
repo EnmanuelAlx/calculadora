@@ -1,0 +1,22 @@
+name: Scheduled Assert Test
+
+on:
+  schedule:
+    - cron: '*/4 * * * *'  # Se ejecuta cada 4 minutos
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  assert-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Run assert test
+        run: python tests/test_assert.py
