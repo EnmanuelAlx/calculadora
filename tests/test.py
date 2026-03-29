@@ -2,7 +2,7 @@
 
 def test_simple():
     """Test simple para demostración de GitHub Actions"""
-    assert 1 == 1
+    assert 1 == 2
     print("Pasaron los tests")
 
 if __name__ == "__main__":
